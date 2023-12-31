@@ -4,7 +4,7 @@ import { HiBars3 } from "react-icons/hi2";
 const Navbar = () => {
   return (
     <div className='bg-[#E6F9F6] py-6'>
-        <div className='items-center flex gap-[750px] justify-center'>
+        <div className='items-center flex gap-[240px] justify-around'>
         <div>
         <p className='text-[#0f4f57] text-xl font-bold font-Prompt'>QUICK </p>
       
