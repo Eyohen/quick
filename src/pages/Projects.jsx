@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react'
 import './animation.css'
 import AOS from 'aos'
-import 'aos/dist/aos.css'
+// import 'aos/dist/aos.css'
 import 'tailwindcss/tailwind.css'; 
 
 const Projects = () => {
