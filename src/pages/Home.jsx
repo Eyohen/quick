@@ -17,7 +17,7 @@ const Home = () => {
         <div className='bg-[#E6F9F6] pb-16'>
 
 
-<div className='flex flex-col md:flex-row gap-32 px-2 justify-center pt-32'>
+<div className='flex flex-col md:flex-row gap-32 px-4 justify-center pt-32'>
             <div>
             <div className='text-[#0f4f57] text-5xl font-bold font-Prompt'  data-aos="fade-right">Software development has <br /> never been quicker</div>
         <p className='text-[#0f4f57] text-xl font-light font-Prompt mt-6' data-aos="fade-down">At Quick we are committed to providing speed and <br /> efficiency, in software development for our clients.</p>
