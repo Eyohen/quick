@@ -1,0 +1,51 @@
+/* .animation {
+    width: 400px;
+    height: 80px;
+    background-color: blue;
+    margin: 10px auto;
+
+} */
+
+@keyframes turn {
+    from {
+        transform: rotate(360deg);
+    }
+
+    /* to {
+        transform: rotate(360deg);
+    } */
+}
+
+
+@keyframes turnleft {
+    from {
+        transform: rotate(360deg);
+    }
+
+    /* to {
+        transform: rotate(360deg);
+    } */
+}
+
+.circle{
+   width: 200px;
+   height: 200px; 
+   border-radius: 100%;
+   border: 5px solid red;
+   border-right-color: white;
+   animation: turn 3s ease-in 1s infinite reverse none;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   
+   
+}
+
+.circle2{
+    width: 150px;
+    height: 150px; 
+    border-radius: 100%;
+    border: 5px solid red;
+    border-right-color: white;
+    animation: turnleft 3s ease-in 1s infinite normal none;
+ }
