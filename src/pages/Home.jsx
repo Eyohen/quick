@@ -22,7 +22,7 @@ const Home = () => {
             <div className='text-[#0f4f57] text-5xl font-bold font-Prompt'  data-aos="fade-right">Software development has <br /> never been quicker</div>
         <p className='text-[#0f4f57] text-xl font-light font-Prompt mt-6' data-aos="fade-down">At Quick we are committed to providing speed and <br /> efficiency, in software development for our clients.</p>
         
-        <button className='bg-[#0f4f57] text-white rounded-full px-4 py-2 mt-6'>Start Project</button>
+        <button className='bg-[#0f4f57] text-white rounded-full px-4 py-2 mt-6 font-Prompt'>Start Project</button>
         </div>
 
         <div>
